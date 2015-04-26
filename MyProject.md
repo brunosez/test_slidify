@@ -1,17 +1,26 @@
-MyProject
+MyProject for Dev. Data Products on Coursera
 ========================================================
-author: 
-date: 
+author: Bruno Seznec
+date: April 2015
 
 First Slide
 ========================================================
 
-For more details on authoring R presentations click the
-**Help** button on the toolbar.
+Five slides to respect intructions
+- Explaining the project
+- Explain the source
+- Explain algorithm
+- Conclusion
+- Something to bring home
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+Slide : Explaining the project
+========================================================
+Doing only a minimum viable project, just 
+to experiment slidify
+
+Slide : Explain the source
+========================================================
+We use the cars datasets, and the two commands summary and plot
 
 Slide With Code
 ========================================================
@@ -35,3 +44,7 @@ Slide With Plot
 ========================================================
 
 ![plot of chunk unnamed-chunk-2](MyProject-figure/unnamed-chunk-2-1.png) 
+Conclusion
+========================================================
+We use manual setting of gh-pages on github
+may be Rpubs will be easier
